@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c$pace $CFILE
+gcc -c $FILE
