@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
  * main - Entry point 
  *
@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	printf("with proper grammar, but the otcome is a piece of ar,t/n");
+	printf("with proper grammar, but the outcome is a pieceof art,\n");
 	return (0);
 }
